@@ -18,7 +18,8 @@ this guide as an example, not the Truth of a great set up.
 The layout I have looks like this:
 
 <img src="https://github.com/sebdah/pok3r-layout/blob/master/keyboard-layout.png" />
-(Layout designer: [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/d419920d1bf4d9b77aa91a868eb52652))
+
+[Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/d419920d1bf4d9b77aa91a868eb52652)
 
 ## Basics
 
