@@ -15,7 +15,7 @@ with NeoVim as my weapon of choice.
 The great thing is that you can pick and choose from the settings below. Treat
 this guide as an example, not the Truth of a great set up.
 
-The layout I have looks like this:
+The layout I have looks like this (the red keys are the modified ones):
 
 <img src="https://github.com/sebdah/pok3r-layout/blob/master/keyboard-layout.png" />
 
