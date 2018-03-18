@@ -28,10 +28,15 @@ this guide, make sure you are on any of layers 2-4 (`fn + ,`, `.` or `/`).
 
 ### Entering programming mode
 
-To enter the programming mode on the keyboard, press `fn + r_ctrl`. The left LED
-under the space bar will now start flashing.
+To enter the programming mode on the keyboard, press `fn + r_ctrl`. The right LED
+under the space bar will now light up.
 
 Note again that this is not possible in the default layer.
+
+### Exiting programming mode
+
+To exit the programming mode on the keyboard, press `fn + r_ctrl` or wait for
+15 seconds.
 
 ## Configuration
 
