@@ -15,6 +15,11 @@ with NeoVim as my weapon of choice.
 The great thing is that you can pick and choose from the settings below. Treat
 this guide as an example, not the Truth of a great set up.
 
+The layout I have looks like this:
+
+<img src="https://github.com/sebdah/pok3r-layout/blob/master/keyboard-layout.png" />
+(Layout designer: [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/d419920d1bf4d9b77aa91a868eb52652))
+
 ## Basics
 
 Only layers 2-4 are programmable, the default layer is not. So when following
@@ -91,3 +96,9 @@ Note again that this is not possible in the default layer.
 3. Plug the keyboard back in again
 4. Press `fn` then `l_ctrl`, then `pn` and then `pn`
 5. Switch DIP switch 4 back to OFF
+
+## Special thanks
+
+Special thanks to [David Jenni](https://github.com/davidjenni) for his great
+guide to configuring the Pok3r on macOS and Windows. You can find it
+[here](https://github.com/davidjenni/pok3r-layouts).
